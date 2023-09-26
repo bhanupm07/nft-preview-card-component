@@ -33,6 +33,7 @@ body {
     background-color: var(--card_bg);
     border-radius: 1rem;
     overflow: hidden;
+    padding: 0;
 }
 
 .card-img {
